@@ -1,0 +1,6 @@
+{
+  "name": "SearchEval – Search Quality & Relevance Evaluation Platform",
+  "description": "A transparent, local-first search quality and relevance evaluation platform for assessing search results, content quality, source credibility, user intent alignment, and evidence-backed factual claims.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
